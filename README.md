@@ -18,7 +18,7 @@
 
 Запустить можно командой
 ```bash
-python main.py -f img.png -c 5 -s - g
+python main.py -f img.png -c 5 -s -g
 ```
 где: 
 -с - уровень сжатия
